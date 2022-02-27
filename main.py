@@ -543,5 +543,5 @@ def downloadvidtiktok(message):
          updateStatus('Twitter', '❎')
 
 bot.send_message(1214473324, "bot starting!")
-print("bot  running...!! ")
+print("botrunning...!! ")
 bot.polling()  
